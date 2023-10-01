@@ -5,4 +5,5 @@
   features of R.You will definetely learn a lot as I did while doing this project.Thanks! </br>
 </table>
 
-**So what are you waiting for..?Go through the R file given above and get into the amazing world of R.Thanks Again!**
+**So what are you waiting for..?Go through the R file given above and get into the amazing world of R.As usual for any query or suggestion see you inside pull request
+section 😁😂. Thanks Again!**
